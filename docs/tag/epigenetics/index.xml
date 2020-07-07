@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Epigenetics | Functiona Genomics</title>
+    <link>https://takahirosuzuki1980.github.io/ycu-gf/tag/epigenetics/</link>
+      <atom:link href="https://takahirosuzuki1980.github.io/ycu-gf/tag/epigenetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Epigenetics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahirosuzuki1980.github.io/ycu-gf/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Epigenetics</title>
+      <link>https://takahirosuzuki1980.github.io/ycu-gf/tag/epigenetics/</link>
+    </image>
+    
+    <item>
+      <title>家族性血小板異常症（FPD)のエピゲノム解析</title>
+      <link>https://takahirosuzuki1980.github.io/ycu-gf/project/fpd/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahirosuzuki1980.github.io/ycu-gf/project/fpd/</guid>
+      <description>&lt;p&gt;家族性血小板異常症（familial platelet disorder：FPD）は、生殖細胞系列におけるRUNX1のヘテロ接合体変異により発症する常染色体優性遺伝病である。FPD患者全体の約35%が骨髄異形成症候群（myelodysplastic syndrome : MDS）や急性骨髄性白血病（acute myeloid leukemia：AML）といった難治性造血器腫瘍に進展することからFPDは前MDSや前AML状態として認識されており、しばしばFPD/AMLと表現される。MDS/AMLではDNAメチル化異常が生じていることが明らかとなっているが、前MDS/AML状態のFPDにおけるDNAメチル化異常については報告がなくよくわかっていない。そこで本研究では、患者数が少なく入手困難なFPDモデル細胞をiPS細胞にゲノム編集技術を用いることで複数樹立し、野生型とFPDモデル間でのDNAメチル化状態を比較することでFPDにおけるDNAメチル化異常の解明を目指す。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A screening system to identify transcription factors that induce binding site-directed DNA demethylation</title>
+      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/demethyl_tf_screening/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/demethyl_tf_screening/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-017-0169-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epigenetics Chromatin 10, 60 (2017) PMID: 29221486&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2017/20171214_2/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DNAのメチル化を切り替える因子の同定法を開発&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
