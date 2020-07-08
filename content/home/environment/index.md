@@ -32,4 +32,5 @@ subtitle = "研究環境"
 - [大学院リサーチ・アソシエイト制度](https://www.riken.jp/careers/programs/jra/)
 - [日本学術振興会 特別研究員](https://www.jsps.go.jp/j-pd/pd_gaiyo.html)
 
-
+  cta_label = "Photo "Grally"
+  cta_url = ""
