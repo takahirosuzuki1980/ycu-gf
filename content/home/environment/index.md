@@ -3,7 +3,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Enviroment"
 subtitle = "研究環境"
@@ -18,7 +18,7 @@ subtitle = "研究環境"
 
 **最先端のゲノム科学**
 
-私たちの研究室は理化学研究所（理研）の客員研究室です。(生命医科学研究センター (IMS);トランスクリプトーム研究チーム(Carninci, 高橋）, 細胞機能変換技術研究チーム（鈴木))。我々のグループは、理化学研究所ゲノム科学総合研究センター・遺伝子構造機能研究グループ、オミックス基盤研究領域、ライフサイエンス技術基盤研究センター・機能ゲノム解析部門の流れを汲み、20年以上世界のトランスクリプトーム研究・遺伝子発現制御研究をリードして来ました。さらに、国際コンソーシアムFANTOM(nctional ANnoTation Of Mammmalian)を主催し、多くの学術的価値の高い研究成果を発表してきました。
+私たちの研究室は理化学研究所（理研）の客員研究室です。(生命医科学研究センター (IMS);トランスクリプトーム研究チーム(Carninci, 高橋）, 細胞機能変換技術研究チーム（鈴木))。我々のグループは、理化学研究所ゲノム科学総合研究センター・遺伝子構造機能研究グループ、オミックス基盤研究領域、ライフサイエンス技術基盤研究センター・機能ゲノム解析部門の流れを汲み、20年以上世界のトランスクリプトーム研究・遺伝子発現制御研究をリードして来ました。さらに、国際コンソーシアムFANTOM(nctional ANnoTation Of Mammalian)を主催し、多くの学術的価値の高い研究成果を発表してきました。
 
 **実験とバイオインフォマティクス**
 
@@ -31,6 +31,3 @@ subtitle = "研究環境"
 **スカラーシップ(博士後期課程対象)**
 - [大学院リサーチ・アソシエイト制度](https://www.riken.jp/careers/programs/jra/)
 - [日本学術振興会 特別研究員](https://www.jsps.go.jp/j-pd/pd_gaiyo.html)
-
-  cta_label = "Photo "Grally"
-  cta_url = ""

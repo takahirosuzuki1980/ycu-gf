@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Functiona Genomics</title>
+    <title>Categories | Functional Genomics</title>
     <link>https://takahirosuzuki1980.github.io/ycu-gf/categories/</link>
       <atom:link href="https://takahirosuzuki1980.github.io/ycu-gf/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language>
     <image>
       <url>https://takahirosuzuki1980.github.io/ycu-gf/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>

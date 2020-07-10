@@ -3,37 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://takahirosuzuki1980.github.io/ycu-gf/topics/</loc>
   </url>
   
   <url>
     <loc>https://takahirosuzuki1980.github.io/ycu-gf/tag/epigenetics/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takahirosuzuki1980.github.io/ycu-gf/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,17 +112,17 @@
   </url>
   
   <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/publication/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://takahirosuzuki1980.github.io/ycu-gf/publication/radicl/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://takahirosuzuki1980.github.io/ycu-gf/author/roos-l/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takahirosuzuki1980.github.io/ycu-gf/publication/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -195,41 +174,6 @@
   <url>
     <loc>https://takahirosuzuki1980.github.io/ycu-gf/author/yabukami-h/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/author/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -353,41 +297,6 @@
   </url>
   
   <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takahirosuzuki1980.github.io/ycu-gf/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://takahirosuzuki1980.github.io/ycu-gf/author/andersson-r/</loc>
     <lastmod>2015-02-27T00:00:00+00:00</lastmod>
   </url>
@@ -420,6 +329,10 @@
   <url>
     <loc>https://takahirosuzuki1980.github.io/ycu-gf/author/vitting-seerup-k/</loc>
     <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://takahirosuzuki1980.github.io/ycu-gf/categories/</loc>
   </url>
   
   <url>
