@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士後期課程 (ジュニアリサーチアソシエイト)
+role: 博士後期課程 <br> (ジュニアリサーチアソシエイト)
 
 # Organizations/Affiliations
 organizations:
@@ -29,9 +29,9 @@ education:
   - course: 修士（理学）
     institution: 横浜市立大学
     year: 2020
-  - course: ""
-    institution: ""
-    year: ""
+  - course: 学士 (生命科学)
+    institution: 東京薬科大学
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link:   # For a direct email link, use "mailto:test@example.org".
+  link:  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -55,7 +55,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Student
-- PhD Studentss
-
+- PhD Students
 ---
+<メッセージ> 
 
+生物がもつ複雑な生体機能はエピジェネティックな仕組みによって緻密に調節されており、この仕組みの破綻は様々な疾患をまねくことが知られていますが、その原因はよくわかっていません。我々の研究室ではエピジェネティックな仕組みの破綻がまねく悪性腫瘍、とくに血液腫瘍の病態をDNAメチル化状態に着目して解明することを目指しています。 

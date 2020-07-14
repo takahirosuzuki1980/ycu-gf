@@ -21,7 +21,7 @@ organizations:
 bio:
 
 interests:
-- 
+- エピジェネティクス
 - 
 
 education:

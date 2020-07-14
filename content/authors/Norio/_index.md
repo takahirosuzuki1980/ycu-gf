@@ -21,8 +21,8 @@ organizations:
 bio:
 
 interests:
-- 
-- 
+- エピジェネティクス
+- 配偶子形成
 
 education:
   courses:

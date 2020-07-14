@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 土岐 直子　
+title: 土岐 直子
 
 # Username (this should match the folder name)
 authors:
@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ncRNA・SINUP
+bio: ncRNA・SINEUP
 
 interests:
-- ncRNA
-- SINUP
+- non-coding RNA
+- SINEUP
 
 education:
   courses:
@@ -62,3 +62,6 @@ user_groups:
 - PhD Students
 ---
 
+### 業績
+* [Naoko Toki, Hazuki Takahashi, Silvia Zucchelli, Stefano Gustincich, Piero Carninci, SINEUP long non-coding RNA acts via PTBP1 and HNRNPK to promote translational initiation assemblies, BioRxiv (2019)](https://www.biorxiv.org/content/10.1101/664029v1)
+* [土岐直子, カルニンチ・ピエロ, 髙橋葉月, 蛋白質発現量を向上するSINEUPs による遺伝子治療の可能性とその研究動向, 医学のあゆみ Volume 267, Issue 8, 599 - 602 (2018)](http://www.pieronline.jp/content/article/0039-2359/267080/599)

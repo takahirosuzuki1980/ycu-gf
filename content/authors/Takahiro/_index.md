@@ -46,6 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:takahiro.suzuki.aa@riken.jp  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: fab
+  link:   https://orcid.org/0000-0002-0972-6911
 - icon: github
   icon_pack: fab
   link: https://github.com/takahirosuzuki1980

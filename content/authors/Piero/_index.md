@@ -23,7 +23,7 @@ bio: #My research interests include distributed robotics, mobile computing and p
 interests:
 - トランスクリプトーム
 - Non-coding RNA
-- 一細胞解析
+- 1細胞解析
 
 education:
   courses:
@@ -39,6 +39,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:carninci@riken.jp"  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: fab
+  link:  https://orcid.org/0000-0001-7202-7243
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/carninci

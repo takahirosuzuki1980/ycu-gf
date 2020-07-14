@@ -1,0 +1,63 @@
+{{ $st := .page }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+{{ $bg := $st.Params.design.background }}
+
+<div class="row" style="font-size:70%; line-height: 1em">
+  {{ if ne $columns "1" }}
+    <div class="col-12 col-lg-4 section-heading">
+      {{ with $st.Title }}<h2>{{ . | markdownify | emojify }}</h2>{{ end }}
+      {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+    </div>
+    <div class="col-12 col-lg-8">
+      {{ $st.Content }}
+    </div>
+  {{ else }}
+    <div class="col-lg-12">
+      <center>
+        {{ with $st.Title }}<h2>{{ . | markdownify | emojify }}</h2>{{ end }}
+      </center>
+      {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      {{ $st.Content }}
+    </div>
+  {{ end }}
+</div>
+
+{{/* Call-to-action link */}}
+{{ if $st.Params.cta.url }}
+  {{ $pack := or $st.Params.cta.icon_pack "fas" }}
+  {{ $pack_prefix := $pack }}
+  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+    {{ $pack_prefix = "fa" }}
+  {{ end }}
+  {{ $link := $st.Params.cta.url }}
+  {{ $scheme := (urls.Parse $link).Scheme }}
+  {{ $target := "" }}
+  {{ if not $scheme }}
+    {{ $link = $link | relLangURL }}
+  {{ else if in (slice "http" "https") $scheme }}
+    {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+  {{ end }}
+<p class="cta-btns">
+  <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg">{{ if $st.Params.cta.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $st.Params.cta.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $st.Params.cta.label | markdownify | emojify | safeHTML }}</a>
+
+  {{/* Alternative Call-to-action link */}}
+  {{ if $st.Params.cta_alt.url }}
+    {{ $link := $st.Params.cta_alt.url }}
+    {{ $scheme := (urls.Parse $link).Scheme }}
+    {{ $target := "" }}
+    {{ if not $scheme }}
+      {{ $link = $link | relLangURL }}
+    {{ else if in (slice "http" "https") $scheme }}
+      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+    {{ end }}
+  <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="hero-cta-alt pl-4">{{ $st.Params.cta_alt.label | markdownify | emojify | safeHTML }} <i class="fas fa-angle-right"></i></a>
+  {{ end }}
+</p>
+{{ end }}
+
+{{/* Call-to-action note */}}
+{{ with $st.Params.cta_note }}
+<p class="hero-note text-muted mb-0">
+  {{ .label | markdownify | emojify | safeHTML }}
+</p>
+{{ end }}

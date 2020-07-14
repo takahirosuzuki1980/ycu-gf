@@ -21,7 +21,7 @@ organizations:
 bio:
 
 interests:
-- 
+- RNA-クロマチン相互作用
 - 
 
 education:

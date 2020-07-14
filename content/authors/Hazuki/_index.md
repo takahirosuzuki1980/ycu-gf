@@ -22,7 +22,7 @@ bio: #My research interests include distributed robotics, mobile computing and p
 
 interests:
 - Non-coding RNA
-- SINUP
+- SINEUP
 
 education:
   courses:
@@ -38,6 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:hazuki.takahashi@riken.jp   # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: fab
+  link:   https://orcid.org/0000-0001-7315-7349
 
 
 # Link to a PDF of your resume/CV from the About widget.
