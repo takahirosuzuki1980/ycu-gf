@@ -3,7 +3,7 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "recruitment"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "rec"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
@@ -42,15 +42,15 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
-[cta]
+# [cta]
 #  url = "topics/"
 #  label = "研究室の風景"
   # icon_pack = "fas"
   # icon = "download"
   
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+# [cta_alt]
+#   url = "https://sourcethemes.com/academic/"
+#  label = "View Documentation"
 
 [advanced]
  # Custom CSS. 
