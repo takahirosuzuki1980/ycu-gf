@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "我々の研究室では一緒に学びたいという大学院生を募集しています"
+title = "我々の研究室では一緒に研究をする大学院生を募集しています"
 subtitle = ""
 
 [design]
