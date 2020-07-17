@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agostini F | Functional Genomics</title>
+    <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/agostini-f/</link>
+      <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/author/agostini-f/index.xml" rel="self" type="application/rss+xml" />
+    <description>Agostini F</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
+      <title>Agostini F</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/agostini-f/</link>
+    </image>
+    
+    <item>
+      <title>RADICL-seq identifies general and cell type-specific principles of genome-wide RNA-chromatin interactions</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/radicl/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/radicl/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41467-020-14337-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nat Commun 11(1):1018 (2020) PMID: 32094342&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2020/20200224_1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNA-クロマチン相互作用を推定する新技術「RADICL-seq」&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

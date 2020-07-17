@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Functional Genomics</title>
+    <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication-type/0/</link>
+      <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>RADICL-seq identifies general and cell type-specific principles of genome-wide RNA-chromatin interactions</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/radicl/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/radicl/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41467-020-14337-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nat Commun 11(1):1018 (2020) PMID: 32094342&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2020/20200224_1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNA-クロマチン相互作用を推定する新技術「RADICL-seq」&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell transcriptomics reveals expansion of cytotoxic CD4 T cells in supercentenarians</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/supercentenarian/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/supercentenarian/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.pnas.org/content/116/48/24242&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PNAS 116 (48), 24242-24251 (2019) PMID: 31719197&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2019/20191113_1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;110歳以上の超長寿者が持つ特殊なT細胞&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A screening system to identify transcription factors that induce binding site-directed DNA demethylation</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/demethyl_tf_screening/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/demethyl_tf_screening/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-017-0169-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epigenetics Chromatin 10, 60 (2017) PMID: 29221486&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2017/20171214_2/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DNAのメチル化を切り替える因子の同定法を開発&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cell Based Assays of SINEUP Non-coding RNAｓThat Can Specifically Enhance mRNA Translation</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_jove/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_jove/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.jove.com/video/58627/cell-based-assays-sineup-non-coding-rnas-that-can-specifically&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J Vis Exp. 144 (2019) PMID: 30774120&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An atlas of human long non-coding RNAs with accurate 5&#39; ends</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantomcat/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantomcat/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/nature21374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 543, 199-204 (2017) PMID: 28241135&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2017/20170302_1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;タンパク質をコードしないRNAをカタログ化&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcribed enhancers lead waves of coordinated transcription in transitioning mammalian cells</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantom_enhancer/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantom_enhancer/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://science.sciencemag.org/content/347/6225/1010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 543, 199-204 (2017) PMID: 28241135&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discovery and functional analysis of lncRNAs: Methodologies to investigate an uncharacterized transcriptome</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/lncrna_review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/lncrna_review/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1874939915002163&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biochim Biophys Acta. 1859, 3-15 (2016) PMID: 26477492&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

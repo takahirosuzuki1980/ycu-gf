@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maeda S | Functional Genomics</title>
+    <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/maeda-s/</link>
+      <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/author/maeda-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maeda S</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
+      <title>Maeda S</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/maeda-s/</link>
+    </image>
+    
+    <item>
+      <title>A screening system to identify transcription factors that induce binding site-directed DNA demethylation</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/demethyl_tf_screening/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/demethyl_tf_screening/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-017-0169-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epigenetics Chromatin 10, 60 (2017) PMID: 29221486&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2017/20171214_2/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DNAのメチル化を切り替える因子の同定法を開発&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
