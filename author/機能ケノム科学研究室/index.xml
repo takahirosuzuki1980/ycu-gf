@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>機能ゲノム科学研究室 | Functional Genomics</title>
+    <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/%E6%A9%9F%E8%83%BD%E3%82%B1%E3%83%8E%E3%83%A0%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E5%AE%A4/</link>
+      <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/author/%E6%A9%9F%E8%83%BD%E3%82%B1%E3%83%8E%E3%83%A0%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E5%AE%A4/index.xml" rel="self" type="application/rss+xml" />
+    <description>機能ゲノム科学研究室</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language>
+    <image>
+      <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
+      <title>機能ゲノム科学研究室</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/%E6%A9%9F%E8%83%BD%E3%82%B1%E3%83%8E%E3%83%A0%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E5%AE%A4/</link>
+    </image>
+    
+  </channel>
+</rss>
