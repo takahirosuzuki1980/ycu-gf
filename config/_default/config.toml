@@ -10,7 +10,10 @@ title = "Functional Genomics"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://takahirosuzuki1980.github.io/ycu-gf/"
+#baseurl = "https://takahirosuzuki1980.github.io/ycu-gf/"
+#publishDir = "docs"
+
+baseurl = "https://www.tsurumi.yokohama-cu.ac.jp/fg/"
 publishDir = "docs"
 
 # Enter a copyright notice to display in the site footer.
