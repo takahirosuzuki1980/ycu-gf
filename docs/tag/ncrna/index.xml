@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ncRNA | Functional Genomics</title>
-    <link>https://takahirosuzuki1980.github.io/ycu-gf/tag/ncrna/</link>
-      <atom:link href="https://takahirosuzuki1980.github.io/ycu-gf/tag/ncrna/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/tag/ncrna/</link>
+      <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/tag/ncrna/index.xml" rel="self" type="application/rss+xml" />
     <description>ncRNA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://takahirosuzuki1980.github.io/ycu-gf/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
       <title>ncRNA</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/tag/ncrna/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/tag/ncrna/</link>
     </image>
     
     <item>
       <title>ノンコーディング RNA とクロマチンの相互作用を網羅的に検出する系の開発</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/project/radicl/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/radicl/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/project/radicl/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/radicl/</guid>
       <description>&lt;p&gt;タンパクに翻訳されないRNAをnon-coding RNA（ノンコーディング/非コードRNA）と呼びます。現在、哺乳類ではクロマチンの約７０％が何らかのRNAに転写され、その内の半数以上がncRNAであると言われています。
 ncRNAの多くは機能がわかっていません。機能が明らかなncRNAのうちクロマチンと相互作用し機能するものが報告されています。&lt;/p&gt;
 &lt;p&gt;クロマチンと相互作用するncRNAの機能を解析するために、私たちは最近RADICL-seq法と名付けた新しい方法を開発しました。RADICL-seq法はncRNAのみならず核内すべてのRNAとクロマチンの相互作用を網羅的に検出し、次世代シーケンサーを用いて解析できる画期的な方法です。私たちはRADICL-seq法を用いてこれまで明らかでなかったncRNAとクロマチンの相互作用やその機能の解析、およびさらにRADICL-seqをよくするための改良に取り組んでいます。&lt;/p&gt;
@@ -25,9 +25,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>翻訳を促進するアンチセンスRNA&#34;SINEUPs&#34;の作用機序の解明から生体内応用へ</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/project/sinup/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/sinup/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/project/sinup/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/sinup/</guid>
       <description>&lt;p&gt;パーキンソン病に関与しているタンパク質としてUCHL1が知られている。このUCHL1をコードするUchl1-mRNAのアンチセンスRNA(AS-Uchl1)にmRNAの増加を伴わずにタンパク質発現量を促進する機能があることが発見された。
 このAS-Uchl1の構造を元に、目的遺伝子に対する人工的に合成したアンチセンスを導入することにより、mRNAの発現レベルに大きな変化なく、タンパク質発現が促進されることを確認し、SINEUPと名付けた。&lt;/p&gt;
 &lt;p&gt;このSINEUPによるタンパク質発現量増加の機構を解明するとともに、これを用いた新しいタンパク質合成促進ツールを開発することを目指し研究を進めている。&lt;/p&gt;
@@ -36,9 +36,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>RADICL-seq identifies general and cell type-specific principles of genome-wide RNA-chromatin interactions</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/radicl/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/radicl/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/radicl/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/radicl/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.nature.com/articles/s41467-020-14337-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nat Commun 11(1):1018 (2020) PMID: 32094342&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;理研プレスリリース&lt;/p&gt;
@@ -49,9 +49,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>Single-cell transcriptomics reveals expansion of cytotoxic CD4 T cells in supercentenarians</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/supercentenarian/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/supercentenarian/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/supercentenarian/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/supercentenarian/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.pnas.org/content/116/48/24242&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PNAS 116 (48), 24242-24251 (2019) PMID: 31719197&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;理研プレスリリース&lt;/p&gt;
@@ -62,9 +62,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>Cell Based Assays of SINEUP Non-coding RNAｓThat Can Specifically Enhance mRNA Translation</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/sineup_jove/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_jove/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/sineup_jove/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_jove/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.jove.com/video/58627/cell-based-assays-sineup-non-coding-rnas-that-can-specifically&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J Vis Exp. 144 (2019) PMID: 30774120&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;
@@ -73,9 +73,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>An atlas of human long non-coding RNAs with accurate 5&#39; ends</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/fantomcat/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantomcat/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/fantomcat/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantomcat/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.nature.com/articles/nature21374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 543, 199-204 (2017) PMID: 28241135&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;理研プレスリリース&lt;/p&gt;
@@ -86,9 +86,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>Transcribed enhancers lead waves of coordinated transcription in transitioning mammalian cells</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/fantom_enhancer/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantom_enhancer/</link>
       <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/fantom_enhancer/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantom_enhancer/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://science.sciencemag.org/content/347/6225/1010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 543, 199-204 (2017) PMID: 28241135&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;
@@ -97,9 +97,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>Discovery and functional analysis of lncRNAs: Methodologies to investigate an uncharacterized transcriptome</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/lncrna_review/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/lncrna_review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/lncrna_review/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/lncrna_review/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1874939915002163&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biochim Biophys Acta. 1859, 3-15 (2016) PMID: 26477492&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;

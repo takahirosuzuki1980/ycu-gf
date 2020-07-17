@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Functional Genomics</title>
-    <link>https://takahirosuzuki1980.github.io/ycu-gf/</link>
-      <atom:link href="https://takahirosuzuki1980.github.io/ycu-gf/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/</link>
+      <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/index.xml" rel="self" type="application/rss+xml" />
     <description>Functional Genomics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://takahirosuzuki1980.github.io/ycu-gf/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
       <title>Functional Genomics</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/</link>
     </image>
     
     <item>
       <title>Topics</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/topics/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/topics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/topics/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/topics/</guid>
       <description>&lt;dl&gt;
   &lt;dt&gt;2020年4月&lt;/dt&gt;
   &lt;dd&gt;四方 達也さんが博士後期課程の学生として、水口 莉沙さん、坂本 優太さん、古関 利百さんが博士前期課程の学生として配属されました。ようこそ！&lt;/dd&gt;
@@ -68,9 +68,9 @@
     
     <item>
       <title>ノンコーディング RNA とクロマチンの相互作用を網羅的に検出する系の開発</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/project/radicl/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/radicl/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/project/radicl/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/radicl/</guid>
       <description>&lt;p&gt;タンパクに翻訳されないRNAをnon-coding RNA（ノンコーディング/非コードRNA）と呼びます。現在、哺乳類ではクロマチンの約７０％が何らかのRNAに転写され、その内の半数以上がncRNAであると言われています。
 ncRNAの多くは機能がわかっていません。機能が明らかなncRNAのうちクロマチンと相互作用し機能するものが報告されています。&lt;/p&gt;
 &lt;p&gt;クロマチンと相互作用するncRNAの機能を解析するために、私たちは最近RADICL-seq法と名付けた新しい方法を開発しました。RADICL-seq法はncRNAのみならず核内すべてのRNAとクロマチンの相互作用を網羅的に検出し、次世代シーケンサーを用いて解析できる画期的な方法です。私たちはRADICL-seq法を用いてこれまで明らかでなかったncRNAとクロマチンの相互作用やその機能の解析、およびさらにRADICL-seqをよくするための改良に取り組んでいます。&lt;/p&gt;
@@ -79,27 +79,27 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>体外精子形成のオミックス解析</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/project/ivs/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/ivs/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/project/ivs/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/ivs/</guid>
       <description>&lt;p&gt;体外精子形成法は、精子形成メカニズムを理解する上で重要なツールである。しかし、現状の器官培養系を用いた体外精子形成法は、完全には体内精子形成を模倣しているまで至っていない。この解決のためには、体外培養精巣特異的な現象の理解が重要である一方で、これまで体外培養精巣と体内精巣の違いは分子レベルで詳細に評価されてこなかった。本研究ではトランスクリプトーム解析を用いて、体外培養精巣と体内精巣の分子レベルの違いを網羅的に明らかにすることを目指している。これまで、マイクロアレイの結果から体外培養精巣では体内精巣と比較して、「精子形成」と「免疫反応」について、大きく分けて2つの違いが生じていることが明らかになった。そして、体外培養精巣では、減数分裂において精子形成の遅延または停止が起きること、培養直後からネクローシスに関係する免疫反応が惹起されるとともに、免疫反応依存的な精巣内マクロファージの活性化、分化、増殖が発生していることがわかった。今後は1細RNAシークエンスを用いて詳細な解析をすすめることで、体外精子形成効率を向上させる新しい培養条件の開発へつながることが期待される。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>家族性血小板異常症（FPD)のエピゲノム解析</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/project/fpd/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/fpd/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/project/fpd/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/fpd/</guid>
       <description>&lt;p&gt;家族性血小板異常症（familial platelet disorder：FPD）は、生殖細胞系列におけるRUNX1のヘテロ接合体変異により発症する常染色体優性遺伝病である。FPD患者全体の約35%が骨髄異形成症候群（myelodysplastic syndrome : MDS）や急性骨髄性白血病（acute myeloid leukemia：AML）といった難治性造血器腫瘍に進展することからFPDは前MDSや前AML状態として認識されており、しばしばFPD/AMLと表現される。MDS/AMLではDNAメチル化異常が生じていることが明らかとなっているが、前MDS/AML状態のFPDにおけるDNAメチル化異常については報告がなくよくわかっていない。そこで本研究では、患者数が少なく入手困難なFPDモデル細胞をiPS細胞にゲノム編集技術を用いることで複数樹立し、野生型とFPDモデル間でのDNAメチル化状態を比較することでFPDにおけるDNAメチル化異常の解明を目指す。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>翻訳を促進するアンチセンスRNA&#34;SINEUPs&#34;の作用機序の解明から生体内応用へ</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/project/sinup/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/sinup/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/project/sinup/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/sinup/</guid>
       <description>&lt;p&gt;パーキンソン病に関与しているタンパク質としてUCHL1が知られている。このUCHL1をコードするUchl1-mRNAのアンチセンスRNA(AS-Uchl1)にmRNAの増加を伴わずにタンパク質発現量を促進する機能があることが発見された。
 このAS-Uchl1の構造を元に、目的遺伝子に対する人工的に合成したアンチセンスを導入することにより、mRNAの発現レベルに大きな変化なく、タンパク質発現が促進されることを確認し、SINEUPと名付けた。&lt;/p&gt;
 &lt;p&gt;このSINEUPによるタンパク質発現量増加の機構を解明するとともに、これを用いた新しいタンパク質合成促進ツールを開発することを目指し研究を進めている。&lt;/p&gt;
@@ -108,9 +108,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>RADICL-seq identifies general and cell type-specific principles of genome-wide RNA-chromatin interactions</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/radicl/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/radicl/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/radicl/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/radicl/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.nature.com/articles/s41467-020-14337-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nat Commun 11(1):1018 (2020) PMID: 32094342&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;理研プレスリリース&lt;/p&gt;
@@ -121,9 +121,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>Single-cell transcriptomics reveals expansion of cytotoxic CD4 T cells in supercentenarians</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/supercentenarian/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/supercentenarian/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/supercentenarian/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/supercentenarian/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.pnas.org/content/116/48/24242&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PNAS 116 (48), 24242-24251 (2019) PMID: 31719197&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;理研プレスリリース&lt;/p&gt;
@@ -134,9 +134,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>A screening system to identify transcription factors that induce binding site-directed DNA demethylation</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/demethyl_tf_screening/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/demethyl_tf_screening/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/demethyl_tf_screening/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/demethyl_tf_screening/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-017-0169-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epigenetics Chromatin 10, 60 (2017) PMID: 29221486&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;理研プレスリリース&lt;/p&gt;
@@ -147,9 +147,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>Cell Based Assays of SINEUP Non-coding RNAｓThat Can Specifically Enhance mRNA Translation</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/sineup_jove/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_jove/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/sineup_jove/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_jove/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.jove.com/video/58627/cell-based-assays-sineup-non-coding-rnas-that-can-specifically&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J Vis Exp. 144 (2019) PMID: 30774120&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;
@@ -158,9 +158,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>An atlas of human long non-coding RNAs with accurate 5&#39; ends</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/fantomcat/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantomcat/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/fantomcat/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantomcat/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.nature.com/articles/nature21374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 543, 199-204 (2017) PMID: 28241135&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;理研プレスリリース&lt;/p&gt;
@@ -171,9 +171,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>Transcribed enhancers lead waves of coordinated transcription in transitioning mammalian cells</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/fantom_enhancer/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantom_enhancer/</link>
       <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/fantom_enhancer/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/fantom_enhancer/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://science.sciencemag.org/content/347/6225/1010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 543, 199-204 (2017) PMID: 28241135&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;
@@ -182,9 +182,9 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     
     <item>
       <title>Discovery and functional analysis of lncRNAs: Methodologies to investigate an uncharacterized transcriptome</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/publication/lncrna_review/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/lncrna_review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://takahirosuzuki1980.github.io/ycu-gf/publication/lncrna_review/</guid>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/lncrna_review/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1874939915002163&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biochim Biophys Acta. 1859, 3-15 (2016) PMID: 26477492&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;

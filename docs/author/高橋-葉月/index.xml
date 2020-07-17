@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>高橋 葉月 | Functional Genomics</title>
-    <link>https://takahirosuzuki1980.github.io/ycu-gf/author/%E9%AB%98%E6%A9%8B-%E8%91%89%E6%9C%88/</link>
-      <atom:link href="https://takahirosuzuki1980.github.io/ycu-gf/author/%E9%AB%98%E6%A9%8B-%E8%91%89%E6%9C%88/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/%E9%AB%98%E6%A9%8B-%E8%91%89%E6%9C%88/</link>
+      <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/author/%E9%AB%98%E6%A9%8B-%E8%91%89%E6%9C%88/index.xml" rel="self" type="application/rss+xml" />
     <description>高橋 葉月</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language>
     <image>
-      <url>https://takahirosuzuki1980.github.io/ycu-gf/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
       <title>高橋 葉月</title>
-      <link>https://takahirosuzuki1980.github.io/ycu-gf/author/%E9%AB%98%E6%A9%8B-%E8%91%89%E6%9C%88/</link>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/%E9%AB%98%E6%A9%8B-%E8%91%89%E6%9C%88/</link>
     </image>
     
   </channel>
