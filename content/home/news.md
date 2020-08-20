@@ -56,6 +56,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+#####  2020年8月
+
+鈴木 先生と生命医科学研究科小川教授らの共同研究グループの論文がBBRCに発表されました。現在、in pressでonline availableです。
+
+- [study performed by Takeru Abe was now online available in BBRC. The difference between in vivo and in vitro spermatogenesis was analyazed with microarray analysis, revealing interesting features.](https://www.sciencedirect.com/science/article/pii/S0006291X20313826)
+
+#####  2020年7月
+
+高橋 先生、カルニンチ 先生らの研究グループの論文が Nucleic Acids Researchに発表されました。
+
+- [An NMR-based approach reveals the core structure of the functional domain of SINEUP lncRNAs](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa598/5874913)
 
 #####  2020年4月
 
