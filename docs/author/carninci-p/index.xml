@@ -5,12 +5,25 @@
     <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/carninci-p/</link>
       <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/author/carninci-p/index.xml" rel="self" type="application/rss+xml" />
     <description>Carninci P</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu00c3222f980887d8d56982f448acf600_58780_512x512_fill_lanczos_center_2.png</url>
       <title>Carninci P</title>
       <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/carninci-p/</link>
     </image>
+    
+    <item>
+      <title>An NMR-based approach reveals the core structure of the functional domain of SINEUP lncRNAs</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_structure/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_structure/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa598/5874913&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nucleic Acids Research: gkaa598(2020) PMID:32697302&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2020/20200806_1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;タンパク質を増やす秘訣に迫る－翻訳を促進するノンコーディングRNAの2次構造を決定－&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>RADICL-seq identifies general and cell type-specific principles of genome-wide RNA-chromatin interactions</title>
