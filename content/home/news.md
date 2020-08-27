@@ -60,7 +60,7 @@ subtitle = ""
 
 鈴木 先生と生命医科学研究科小川教授らの共同研究グループの論文がBBRCに発表されました。現在、in pressでonline availableです。
 
-- [study performed by Takeru Abe was now online available in BBRC. The difference between in vivo and in vitro spermatogenesis was analyazed with microarray analysis, revealing interesting features.](https://www.sciencedirect.com/science/article/pii/S0006291X20313826)
+- [study performed by Takeru Abe was now online available in BBRC. The difference between in vivo and in vitro spermatogenesis was analyazed with microarray analysis, revealing interesting features.](https://www.sciencedirect.com/science/article/pii/S0006291X20313826?via%3Dihub)
 
 #####  2020年7月
 
