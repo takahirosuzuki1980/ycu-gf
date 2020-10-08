@@ -58,7 +58,7 @@ subtitle = ""
 +++
 #####  2020年8月
 
-鈴木 先生と生命医科学研究科小川教授らの共同研究グループの論文がBBRCに発表されました。現在、in pressでonline availableです。
+鈴木 先生と生命医科学研究科小川教授らの共同研究グループの論文がBBRCに発表されました。
 
 - [study performed by Takeru Abe was now online available in BBRC. The difference between in vivo and in vitro spermatogenesis was analyazed with microarray analysis, revealing interesting features.](https://www.sciencedirect.com/science/article/pii/S0006291X20313826?via%3Dihub)
 
@@ -76,9 +76,9 @@ subtitle = ""
 
 ##### 2019年6月
 
-高橋　葉月 先生が大学院客員研究員として新たに着任されました。ようこそ！
+高橋　葉月 先生が大学院客員研究員として新たに着任しました。
 
-鈴木 貴紘 先生が大学院客員准教授として着任されました
+鈴木 貴紘 先生が大学院客員准教授として着任しました。
 
 ##### 2019年4月
 

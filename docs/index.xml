@@ -5,7 +5,7 @@
     <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/</link>
       <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/index.xml" rel="self" type="application/rss+xml" />
     <description>Functional Genomics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu186497f327ebf12417aaf2775ed2c5f7_6545_512x512_fill_lanczos_center_2.png</url>
       <title>Functional Genomics</title>
@@ -63,6 +63,16 @@
   &lt;dt&gt;2013年4月&lt;/dt&gt;
   &lt;dd&gt;研究室が設立されました&lt;/dd&gt;
 &lt;/dl&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcriptome analysis reveals inadequate spermatogenesis and immediate radical immune reactions during organ culture in vitro spermatogenesis</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/ivs_transcreeptome/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/ivs_transcreeptome/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0006291X20313826?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biochem Biophys Res Commun. 530(4):732-738 (2020) PMID: 32782148&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -146,6 +156,15 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
     </item>
     
     <item>
+      <title>DNAメチル化制御転写因子の解析</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/demethyltf/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/project/demethyltf/</guid>
+      <description>&lt;p&gt;DNAメチル化は遺伝子のオン/オフを制御するエピジェネティックな因子であり、発生や細胞分化で遺伝子発現を正確に制御している。しかし、DNAメチル化自身がどのように時空間的に制御されているかは未だ不明な点が多く残されている。我々のグループでは、転写因子がその結合部位特異的にDNAメチル化を制御することを明らかとしてきた(blood advances 1, 20 (2017) PMID: 29296817, Epigenetics Chromatin 10, 60 (2017) PMID: 29221486)。我々はさらに様々な細胞分化における転写因子によるDNAメチル化制御の全体像、制御機構、疾患との関連の解明を目指す。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A screening system to identify transcription factors that induce binding site-directed DNA demethylation</title>
       <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/demethyl_tf_screening/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
@@ -166,6 +185,19 @@ ncRNAの多くは機能がわかっていません。機能が明らかなncRNA�
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.jove.com/video/58627/cell-based-assays-sineup-non-coding-rnas-that-can-specifically&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J Vis Exp. 144 (2019) PMID: 30774120&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;理研プレスリリース&#34;&gt;理研プレスリリース&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RUNX1 regulates site specificity of DNA demethylation by recruitment of DNA demethylation machineries in hematopoietic cells</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/runx1_demethylation/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/runx1_demethylation/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://ashpublications.org/bloodadvances/article/1/20/1699/16277/RUNX1-regulates-site-specificity-of-DNA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blood advances 1, 20 (2017) PMID: 29296817&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2017/20170907_1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;血液細胞の分化に必要な遺伝子をオンにするスイッチ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
