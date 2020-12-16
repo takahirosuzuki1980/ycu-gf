@@ -56,32 +56,40 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+#####  2020年11月
+
+博士後期課程土岐直子さん、高橋葉月大学院客員研究員、カルニンチ・ピエロ大学院客員教授らの共同研究グループの論文がNucleic Acids Researchに発表されました。
+
+- [SINEUP long non-coding RNA acts via PTBP1 and HNRNPK to promote translational initiation assemblies](https://academic.oup.com/nar/article/48/20/11626/5936032)
+[プレスリリース](https://www.riken.jp/press/2020/20201102_1/index.html)
+
+#####  2020年10月
+
+鈴木貴紘大学院客員准教授と生命医科学研究科小川教授らの共同研究グループの論文がData in Briefに発表されました。
+
+- [Time-course microarray transcriptome data of in vitro cultured testes and age-matched in vivo testes ](https://www.sciencedirect.com/science/article/pii/S2352340920313640?via%3Dihub)
+
+#####  2020年10月
+
+博士後期課程土岐直子さん、高橋葉月大学院客員研究員、カルニンチ・ピエロ大学院客員教授らの共同研究グループの論文がFEBS Letterに発表されました。
+
+- [Synthetic in vitro transcribed lncRNAs (SINEUPs) with chemical modifications enhance target mRNA translation](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.13928)
+
 #####  2020年8月
 
-鈴木 先生と生命医科学研究科小川教授らの共同研究グループの論文がBBRCに発表されました。
+鈴木貴紘大学院客員准教授と生命医科学研究科小川教授らの共同研究グループの論文がBBRCに発表されました。
 
 - [study performed by Takeru Abe was now online available in BBRC. The difference between in vivo and in vitro spermatogenesis was analyazed with microarray analysis, revealing interesting features.](https://www.sciencedirect.com/science/article/pii/S0006291X20313826?via%3Dihub)
 
 #####  2020年7月
 
-高橋 先生、カルニンチ 先生らの研究グループの論文が Nucleic Acids Researchに発表されました。
+高橋葉月大学院客員研究員、カルニンチ・ピエロ大学院客員教授らの研究グループの論文が Nucleic Acids Researchに発表されました。
 
 - [An NMR-based approach reveals the core structure of the functional domain of SINEUP lncRNAs](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa598/5874913)
 
 #####  2020年4月
 
-四方 達也さんが博士後期課程の学生として、水口 莉沙さん、坂本 優太さん、古関 利百さんが博士前期課程の学生として配属されました。ようこそ！
+四方 達也さんが博士後期課程の学生として、水口 莉沙さん、坂本 優太さん、古関 利百さんが博士前期課程の学生として配属されました。
 
 田中 優希さんが博士前期課程を修了し博士後期課程に、舒 許峰さんが博士前期課程に進学しました。
-
-##### 2019年6月
-
-高橋　葉月 先生が大学院客員研究員として新たに着任しました。
-
-鈴木 貴紘 先生が大学院客員准教授として着任しました。
-
-##### 2019年4月
-
-庄島 愛子さん, 鈴木 馨さん, 柴田 啓豪さんが博士前期課程の学生として、舒 許峰さんが研究生として配属されました。ようこそ！
-
 

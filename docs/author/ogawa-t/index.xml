@@ -5,12 +5,22 @@
     <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/ogawa-t/</link>
       <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/author/ogawa-t/index.xml" rel="self" type="application/rss+xml" />
     <description>Ogawa T</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu186497f327ebf12417aaf2775ed2c5f7_6545_512x512_fill_lanczos_center_2.png</url>
       <title>Ogawa T</title>
       <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/ogawa-t/</link>
     </image>
+    
+    <item>
+      <title>Time-course microarray transcriptome data of in vitro cultured testes and age-matched in vivo testes</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/ivs_data/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/ivs_data/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2352340920313640?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data in Brief 33 (Availabel online)(2020) PMID: 33241095&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Transcriptome analysis reveals inadequate spermatogenesis and immediate radical immune reactions during organ culture in vitro spermatogenesis</title>

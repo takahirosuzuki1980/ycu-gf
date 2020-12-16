@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toki N | Functional Genomics</title>
+    <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/toki-n/</link>
+      <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/author/toki-n/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toki N</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu186497f327ebf12417aaf2775ed2c5f7_6545_512x512_fill_lanczos_center_2.png</url>
+      <title>Toki N</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/author/toki-n/</link>
+    </image>
+    
+    <item>
+      <title>SINEUP long non-coding RNA acts via PTBP1 and HNRNPK to promote translational initiation assemblies</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_mechanism/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_mechanism/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://academic.oup.com/nar/article/48/20/11626/5936032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nucleic Acids Research 48, 20 (2020) PMID: 33130894&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2020/20201102_1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;タンパク質を増やすSINEUPのメカニズムを解明&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synthetic in vitro transcribed lncRNAs (SINEUPs) with chemical modifications enhance target mRNA translation</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_chemical/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/sineup_chemical/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.13928&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FEBS Letter, Online ahead of print (2020) PMID: 33012004&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
