@@ -83,6 +83,10 @@ subtitle = ""
 
 #####  2020年7月
 
+鈴木貴紘大学院客員准教授、カルニンチ・ピエロ大学院客員教授が参画するFANTOMコンソーシアムの論文が Genome Researchに発表されました。
+
+- [Functional annotation of human long noncoding RNAs via molecular phenotyping](https://genome.cshlp.org/content/30/7/1060)
+
 高橋葉月大学院客員研究員、カルニンチ・ピエロ大学院客員教授らの研究グループの論文が Nucleic Acids Researchに発表されました。
 
 - [An NMR-based approach reveals the core structure of the functional domain of SINEUP lncRNAs](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa598/5874913)
