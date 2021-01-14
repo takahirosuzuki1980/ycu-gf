@@ -58,7 +58,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Student
-- PhD Students
+- Ph.D. Students
 ---
 ### 業績
 * [Kaori Kashi, Lindsey Henderson, Alessandro Bonetti, Piero Carninci, Discovery and functional analysis of lncRNAs: Methodologies to investigate an uncharacterized transcriptome. Biochim Biophys Acta 1859 (2016) 3-15](https://www.sciencedirect.com/science/article/pii/S1874939915002163?via%3Dihub)

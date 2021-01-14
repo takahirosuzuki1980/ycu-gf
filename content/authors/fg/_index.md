@@ -32,7 +32,7 @@ education:
   - course:
     institution:
     year:
-  - course: ）
+  - course: 
     institution: 
     year:
   - course:

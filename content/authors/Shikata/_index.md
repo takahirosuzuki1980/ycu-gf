@@ -59,6 +59,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Student
-- PhD Students
+- Ph.D. Students
 ---
 
