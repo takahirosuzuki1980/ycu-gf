@@ -27,12 +27,9 @@ interests:
 education:
   courses:
   - course: 学士(理学)
-    institution: 明星大学,
+    institution: 明星大学
     year: 2020
-  - course: ""
-    institution: ""
-    year: ""
-  - course: ""
+  - course: 高等学校教諭1種免許状（理科）
     institution: ""
     year: ""
 
@@ -63,4 +60,4 @@ user_groups:
 - M1
 ---
 
-高等学校教諭1種免許状（理科）
+

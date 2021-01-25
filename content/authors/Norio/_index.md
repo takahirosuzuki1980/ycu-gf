@@ -26,15 +26,10 @@ interests:
 
 education:
   courses:
-  - course: ""
-    institution: ""
-    year: ""
-  - course: ""
-    institution: ""
-    year: ""
-  - course: ""
-    institution: ""
-    year: ""
+  - course: 学士
+    institution: 高知大学
+    year: 2020
+
 
 
 # Social/Academic Networking

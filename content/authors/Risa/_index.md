@@ -22,19 +22,14 @@ bio:
 
 interests:
 - エピジェネティクス
-- 
+- 疾患
 
 education:
   courses:
-  - course: ""
-    institution: ""
-    year: ""
-  - course: ""
-    institution: ""
-    year: ""
-  - course: ""
-    institution: ""
-    year: ""
+  - course: 学士（理学）
+    institution: 日本女子大学
+    year: 2020
+
 
 
 # Social/Academic Networking
@@ -62,4 +57,4 @@ user_groups:
 - Master's Students(M1)
 - M1
 ---
-
+私はエピジェネティクスに興味があり、エピジェネティクスの側面から疾患の研究がしたいと思い、当研究室に入りました。現在は、基礎研究の乏しい子宮内膜炎について研究をしており、子宮内膜炎の分子メカニズムをエピジェネティクスの側面から明らかにしようしています。
