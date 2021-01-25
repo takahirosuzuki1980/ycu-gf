@@ -21,14 +21,14 @@ organizations:
 bio:
 
 interests:
-- 上皮間葉転換
+- 癌の浸潤・転移
 - 
 
 education:
   courses:
-  - course: ""
-    institution: ""
-    year: ""
+  - course: 学士(理学)
+    institution: 明星大学,
+    year: 2020
   - course: ""
     institution: ""
     year: ""
@@ -63,3 +63,4 @@ user_groups:
 - M1
 ---
 
+高等学校教諭1種免許状（理科）

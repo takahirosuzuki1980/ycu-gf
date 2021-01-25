@@ -22,16 +22,17 @@ bio:
 
 interests:
 - RNA-クロマチン相互作用
-- 
+- epigenetics
+- bioinformatics
 
 education:
   courses:
-  - course: ""
-    institution: ""
-    year: ""
-  - course: ""
-    institution: ""
-    year: ""
+  - course:   Research student
+    institution: Yokohama-City University
+    year: 2019-2020
+  - course: bachelor
+    institution: College of Bioinformatics Science and Technology, Harbin Medical University
+    year: 2018
   - course: ""
     institution: ""
     year: ""
@@ -62,4 +63,4 @@ user_groups:
 - Master's Students(M1)
 - M1
 ---
-
+ It's easy to get along, and  tomorrow is better than today means that the effort was not in vain.
