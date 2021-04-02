@@ -50,6 +50,15 @@ subtitle = ""
  css_class = ""
 +++
 <dl>
+ <dt>2021年4月</dt>
+ <dd>丸山　梨乃さんが博士後期課程の学生として配属されました。</dd>
+
+ <dt>2021年3月</dt>
+ <dd>カルニンチ大学院客員教授が2021年3月31日をもって離職しました。今後は<a href="https://www.ims.riken.jp">理研IMS</a>副センター長および<a href="https://humantechnopole.it/en/">Human technopole</a> Genomics Research Center (Mirano, Italy)のHeadとしてご活躍されます。 </dd>
+
+ <dt>2020年12月</dt>
+ <dd>博士後期課程土岐直子さんが博士（理学）の学位を取得しました。 </dd>
+
   <dt>2020年11月</dt>
   <dd>博士後期課程土岐直子さん、高橋葉月大学院客員研究員、カルニンチ・ピエロ大学院客員教授らの共同研究グループの論文がNucleic Acids Researchに発表されました。</dd>
   <dd><a href="https://academic.oup.com/nar/article/48/20/11626/5936032">SINEUP long non-coding RNA acts via PTBP1 and HNRNPK to promote translational initiation assemblies</a></dd>

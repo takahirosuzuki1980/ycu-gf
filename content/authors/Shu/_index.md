@@ -60,7 +60,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Student
-- Master's Students(M1)
-- M1
+- Master's Students(M2)
+- M2
 ---
  It's easy to get along, and  tomorrow is better than today means that the effort was not in vain.

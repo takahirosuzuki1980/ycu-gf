@@ -56,8 +56,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+#####  2021年4月
+丸山　梨乃さんが博士後期課程の学生として配属されました。
+
+#####  2021年3月
+カルニンチ大学院客員教授が2021年3月31日をもって離職しました。今後は[理研IMS](dhttps://www.ims.riken.jp)副センター長および[Human technopole](https://humantechnopole.it/en/) Genomics Research Center (Mirano, Italy)のHeadとしてご活躍されます。
+
 #####  2020年12月
-博士後期課程土岐直子さんが博士（理学）の学位を取得されました。
+博士後期課程土岐直子さんが博士（理学）の学位を取得しました。
 
 #####  2020年11月
 
@@ -93,10 +99,4 @@ subtitle = ""
 高橋葉月大学院客員研究員、カルニンチ・ピエロ大学院客員教授らの研究グループの論文が Nucleic Acids Researchに発表されました。
 
 - [An NMR-based approach reveals the core structure of the functional domain of SINEUP lncRNAs](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa598/5874913)
-
-#####  2020年4月
-
-四方 達也さんが博士後期課程の学生として、水口 莉沙さん、坂本 優太さん、古関 利百さんが博士前期課程の学生として配属されました。
-
-田中 優希さんが博士前期課程を修了し博士後期課程に、舒 許峰さんが博士前期課程に進学しました。
 

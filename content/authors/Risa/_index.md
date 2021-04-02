@@ -54,7 +54,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Student
-- Master's Students(M1)
-- M1
+- Master's Students(M2)
+- M2
 ---
 私はエピジェネティクスに興味があり、エピジェネティクスの側面から疾患の研究がしたいと思い、当研究室に入りました。現在は、基礎研究の乏しい子宮内膜炎について研究をしており、子宮内膜炎の分子メカニズムをエピジェネティクスの側面から明らかにしようしています。

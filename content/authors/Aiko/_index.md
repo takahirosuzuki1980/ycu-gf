@@ -49,9 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
-- Master's Students(M2)
-- M2
+- alumini
 ---
 
 「 胚体内胚葉分化過程における転写因子による結合部位特異的DNA脱メチル化の生物学的機能を推定する」研究を行っています。

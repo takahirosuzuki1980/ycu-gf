@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 坂本 優太
+title: 丸山　梨乃
 
 # Username (this should match the folder name)
 authors:
-- yuta
+- rino
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 博士前期課程1年
+role: 博士後期課程1年
 
 # Organizations/Affiliations
 organizations:
@@ -21,17 +21,15 @@ organizations:
 bio:
 
 interests:
-- 癌の浸潤・転移
-- 
+- エピジェネティクス
+- 疾患
 
 education:
   courses:
-  - course: 学士(理学)
-    institution: 明星大学
-    year: 2020
-  - course: 高等学校教諭1種免許状（理科）
-    institution: ""
-    year: ""
+  - course: 学士
+    institution: 麻布大学
+    year: 2021
+
 
 
 # Social/Academic Networking
@@ -56,8 +54,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Student
-- Master's Students(M2)
-- M2
----
+- Ph.D. Students
 
+---
 

@@ -59,8 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Staff
-- professor
+- alumini
 ---
 
 Obtained doctoral degree at the Univ. of Trieste in 1989, and joined RIKEN in 1995. He is a Director of the Division Genomics Technologies, CLST, RIKEN, and a visiting professor at YCU graduate school of medical life science from Apr. 2013.
