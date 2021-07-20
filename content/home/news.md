@@ -56,6 +56,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+#####  2021年7月
+鈴木貴紘大学院客員准教授が参加する九州大学吉野剛史助教・林克彦教授らの共同研究グループの論文がScienceに発表されました。
+- [Generation of ovarian follicles from mouse pluripotent stem cells](https://science.sciencemag.org/content/373/6552/eabe0237)
+
+- [プレスリリース](https://www.riken.jp/press/2021/20210716_1/index.html)
+
 #####  2021年4月
 丸山　梨乃さんが博士後期課程の学生として配属されました。
 
@@ -70,7 +76,8 @@ subtitle = ""
 博士後期課程土岐直子さん、高橋葉月大学院客員研究員、カルニンチ・ピエロ大学院客員教授らの共同研究グループの論文がNucleic Acids Researchに発表されました。
 
 - [SINEUP long non-coding RNA acts via PTBP1 and HNRNPK to promote translational initiation assemblies](https://academic.oup.com/nar/article/48/20/11626/5936032)
-[プレスリリース](https://www.riken.jp/press/2020/20201102_1/index.html)
+
+- [プレスリリース](https://www.riken.jp/press/2020/20201102_1/index.html)
 
 #####  2020年10月
 

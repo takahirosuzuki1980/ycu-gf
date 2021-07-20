@@ -5,7 +5,7 @@
     <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/</link>
       <atom:link href="https://www.tsurumi.yokohama-cu.ac.jp/fg/index.xml" rel="self" type="application/rss+xml" />
     <description>Functional Genomics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tsurumi.yokohama-cu.ac.jp/fg/images/icon_hu186497f327ebf12417aaf2775ed2c5f7_6545_512x512_fill_lanczos_center_2.png</url>
       <title>Functional Genomics</title>
@@ -18,6 +18,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/topics/</guid>
       <description>&lt;dl&gt;
+&lt;dt&gt;2021年7月&lt;/dt&gt;
+,&lt;dd&gt;鈴木貴紘大学院客員准教授が参加する九州大学吉野剛史助教・林克彦教授らの共同研究グループの論文がScienceに発表されました。
+&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&#34;https://science.sciencemag.org/content/373/6552/eabe0237&#34;&gt;Generation of ovarian follicles from mouse pluripotent stem cells&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&#34;https://www.riken.jp/press/2021/20210716_1/index.html&#34;&gt;プレスリリース&lt;/a&gt;&lt;/dd&gt;
  &lt;dt&gt;2021年4月&lt;/dt&gt;
  &lt;dd&gt;丸山　梨乃さんが博士後期課程の学生として配属されました。&lt;/dd&gt;
  &lt;dt&gt;2021年3月&lt;/dt&gt;
@@ -85,6 +90,19 @@
   &lt;dt&gt;2013年4月&lt;/dt&gt;
   &lt;dd&gt;研究室が設立されました&lt;/dd&gt;
 &lt;/dl&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generation of ovarian follicles from mouse pluripotent stem cells</title>
+      <link>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/foslc/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.tsurumi.yokohama-cu.ac.jp/fg/publication/foslc/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://science.sciencemag.org/content/373/6552/eabe0237&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science 373, 6552 (2021)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理研プレスリリース&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.riken.jp/press/2021/20210716_1/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;マウス多能性幹細胞から機能的な卵巣組織の再生に世界で初めて成功！－卵子の産生に動物由来の体細胞が不要に－&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

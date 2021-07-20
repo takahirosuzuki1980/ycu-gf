@@ -50,6 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 <dl>
+<dt>2021年7月</dt>
+,<dd>鈴木貴紘大学院客員准教授が参加する九州大学吉野剛史助教・林克彦教授らの共同研究グループの論文がScienceに発表されました。
+</dd>
+<dd><a href="https://science.sciencemag.org/content/373/6552/eabe0237">Generation of ovarian follicles from mouse pluripotent stem cells</a></dd>
+<dd><a href="https://www.riken.jp/press/2021/20210716_1/index.html">プレスリリース</a></dd>
+
  <dt>2021年4月</dt>
  <dd>丸山　梨乃さんが博士後期課程の学生として配属されました。</dd>
 
